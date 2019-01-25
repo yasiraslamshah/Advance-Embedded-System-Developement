@@ -1,0 +1,117 @@
+System Information:  shah
+Operating System Type/Brand:
+Linux
+
+Operating System Distribution/Version:
+DISTRIB_ID=Ubuntu
+DISTRIB_RELEASE=16.04
+DISTRIB_CODENAME=xenial
+DISTRIB_DESCRIPTION="Ubuntu 16.04.5 LTS"
+NAME="Ubuntu"
+VERSION="16.04.5 LTS (Xenial Xerus)"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Ubuntu 16.04.5 LTS"
+VERSION_ID="16.04"
+HOME_URL="http://www.ubuntu.com/"
+SUPPORT_URL="http://help.ubuntu.com/"
+BUG_REPORT_URL="http://bugs.launchpad.net/ubuntu/"
+VERSION_CODENAME=xenial
+UBUNTU_CODENAME=xenial
+
+
+System Architecture Information:
+
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) per core:    2
+Core(s) per socket:    2
+Socket(s):             1
+NUMA node(s):          1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 58
+Model name:            Intel(R) Core(TM) i3-3217U CPU @ 1.80GHz
+Stepping:              9
+CPU MHz:               1135.115
+CPU max MHz:           1800.0000
+CPU min MHz:           800.0000
+BogoMIPS:              3591.76
+Virtualization:        VT-x
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              256K
+L3 cache:              3072K
+NUMA node0 CPU(s):     0-3
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer xsave avx f16c lahf_lm cpuid_fault epb pti ssbd ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase smep erms xsaveopt dtherm ida arat pln pts flush_l1d
+
+
+Information on File system Memory:
+
+              total        used        free      shared  buff/cache   available
+Mem:           3832        1606         542         260        1682        1681
+Swap:          3983         112        3871
+MemTotal:        3924060 kB
+MemFree:          556012 kB
+MemAvailable:    1721868 kB
+Buffers:           63532 kB
+Cached:          1534512 kB
+SwapCached:         3340 kB
+Active:          2047188 kB
+Inactive:        1098080 kB
+Active(anon):    1351124 kB
+Inactive(anon):   462804 kB
+Active(file):     696064 kB
+Inactive(file):   635276 kB
+Unevictable:          48 kB
+Mlocked:              48 kB
+SwapTotal:       4079612 kB
+SwapFree:        3964468 kB
+Dirty:               172 kB
+Writeback:             0 kB
+AnonPages:       1544672 kB
+Mapped:           365316 kB
+Shmem:            266704 kB
+Slab:             125072 kB
+SReclaimable:      80148 kB
+SUnreclaim:        44924 kB
+KernelStack:       10800 kB
+PageTables:        38440 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     6041640 kB
+Committed_AS:    6200968 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:      216828 kB
+DirectMap2M:     3862528 kB
+
+Kernel Version:
+4.15.0-43-generic
+
+
+Kernel gcc version build:
+
+Linux version 4.15.0-43-generic (buildd@lcy01-amd64-007) (gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.10)) #46~16.04.1-Ubuntu SMP Fri Dec 7 13:31:08 UTC 2018
+
+
+kernel build time:
+
+#46~16.04.1-Ubuntu SMP Fri Dec 7 13:31:08 UTC 2018
+
