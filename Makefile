@@ -1,4 +1,4 @@
-obj-m := kernel_module.o
+obj-m := home3.o
 
 KDIR := ~/buildroot/output/build/linux-4796173fc58688055a99a1cef19a839174067220/
 
