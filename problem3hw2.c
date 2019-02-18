@@ -2,6 +2,7 @@
 //HW2
 //AESD 2019
 #include <stdio.h>
+#include <stdlib.h>
 #define size 50
  void main()
 {
@@ -20,7 +21,7 @@
         fclose(file1);
 
 	file1=fopen("problem2.txt","a+");	//append mode
-	dy_mem=(char *)malloc(sizeof(char));	//dynamically allocating
+	char *dy_mem=(char *)malloc(sizeof(char));	//dynamically allocating
 	printf("\nString:\n");			//read an input from command line and 
 						//write to the string to allocated array
 	
