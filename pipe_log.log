@@ -1,0 +1,46 @@
+Entering Child Thread
+
+Child Enter Timestamp:267559
+String recieved by Child from Parent : WORK AND EARN!	String Length: 14
+String recieved by Child from Parent : WORK AND EARN!	String Length: 14
+String recieved by Child from Parent : WORK AND EARN!	String Length: 14
+String recieved by Child from Parent : WORK AND EARN!	String Length: 14
+String recieved by Child from Parent : WORK AND EARN!	String Length: 14
+String recieved by Child from Parent : WORK AND EARN!	String Length: 14
+String recieved by Child from Parent : WORK AND EARN!	String Length: 14
+String recieved by Child from Parent : WORK AND EARN!	String Length: 14
+String recieved by Child from Parent : WORK AND EARN!	String Length: 14
+String recieved by Child from Parent : WORK AND EARN!	String Length: 14
+Entering Parent Thread
+
+Parent Enter Timestamp:2231897
+String recieved by Parent from Child : PAPA! I NEED MONEY!	String Length: 19
+
+Parent Exit Timestamp:2339732
+String recieved by Parent from Child : PAPA! I NEED MONEY!	String Length: 19
+
+Parent Exit Timestamp:2367533
+String recieved by Parent from Child : PAPA! I NEED MONEY!	String Length: 19
+
+Parent Exit Timestamp:2393249
+String recieved by Parent from Child : PAPA! I NEED MONEY!	String Length: 19
+
+Parent Exit Timestamp:2417651
+String recieved by Parent from Child : PAPA! I NEED MONEY!	String Length: 19
+
+Parent Exit Timestamp:2441656
+String recieved by Parent from Child : PAPA! I NEED MONEY!	String Length: 19
+
+Parent Exit Timestamp:2466188
+String recieved by Parent from Child : PAPA! I NEED MONEY!	String Length: 19
+
+Parent Exit Timestamp:2490612
+String recieved by Parent from Child : PAPA! I NEED MONEY!	String Length: 19
+
+Parent Exit Timestamp:2514243
+String recieved by Parent from Child : PAPA! I NEED MONEY!	String Length: 19
+
+Parent Exit Timestamp:2538779
+String recieved by Parent from Child : PAPA! I NEED MONEY!	String Length: 19
+
+Parent Exit Timestamp:2562619

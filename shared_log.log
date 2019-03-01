@@ -1,0 +1,177 @@
+
+Child Process Created
+
+Child Process Timestamp:
+ 459920
+
+Sem_wait Issues
+String Recieved by CHILD:No.0 Parent says BYE!, Length: 16
+String Sent by CHILD 0: Child says Hi!, Length: 14
+
+Child Sent Process
+	Timestamp:
+ 548507
+String Recieved by CHILD:No.1 Child says Hi!, Length: 14
+String Sent by CHILD 1: Child says Hi!, Length: 14
+
+Child Sent Process
+	Timestamp:
+ 572985
+String Recieved by CHILD:No.2 Child says Hi!, Length: 14
+String Sent by CHILD 2: Child says Hi!, Length: 14
+
+Child Sent Process
+	Timestamp:
+ 592200
+String Recieved by CHILD:No.3 Child says Hi!, Length: 14
+String Sent by CHILD 3: Child says Hi!, Length: 14
+
+Child Sent Process
+	Timestamp:
+ 610075
+String Recieved by CHILD:No.4 Child says Hi!, Length: 14
+String Sent by CHILD 4: Child says Hi!, Length: 14
+
+Child Sent Process
+	Timestamp:
+ 627603
+String Recieved by CHILD:No.5 Child says Hi!, Length: 14
+String Sent by CHILD 5: Child says Hi!, Length: 14
+
+Child Sent Process
+	Timestamp:
+ 645427
+String Recieved by CHILD:No.6 Child says Hi!, Length: 14
+String Sent by CHILD 6: Child says Hi!, Length: 14
+
+Child Sent Process
+	Timestamp:
+ 663275
+String Recieved by CHILD:No.7 Child says Hi!, Length: 14
+String Sent by CHILD 7: Child says Hi!, Length: 14
+
+Child Sent Process
+	Timestamp:
+ 683885
+String Recieved by CHILD:No.8 Child says Hi!, Length: 14
+String Sent by CHILD 8: Child says Hi!, Length: 14
+
+Child Sent Process
+	Timestamp:
+ 701754
+String Recieved by CHILD:No.9 Child says Hi!, Length: 14
+String Sent by CHILD 9: Child says Hi!, Length: 14
+
+Child Sent Process
+	Timestamp:
+ 715168
+
+Sem Post Issued
+CHILD process Exit	Timestamp: 718166
+Parent Process
+
+Parent Process Timestamp:
+ 2203022
+String Sent by Parent 0: Parent says BYE! Length: 16
+
+Sem Post
+
+Parent Process Sent
+	Timestamp:
+ 2647755
+
+Sem Wait
+String Recieved by Parent 0: Child says Hi! Length: 8.
+String Sent by Parent 1: Parent says BYE! Length: 16
+
+Sem Post
+
+Parent Process Sent
+	Timestamp:
+ 2770888
+
+Sem Wait
+String Recieved by Parent 1: Parent says BYE! Length: 8.
+String Sent by Parent 2: Parent says BYE! Length: 16
+
+Sem Post
+
+Parent Process Sent
+	Timestamp:
+ 2879483
+
+Sem Wait
+String Recieved by Parent 2: Parent says BYE! Length: 8.
+String Sent by Parent 3: Parent says BYE! Length: 16
+
+Sem Post
+
+Parent Process Sent
+	Timestamp:
+ 2988798
+
+Sem Wait
+String Recieved by Parent 3: Parent says BYE! Length: 8.
+String Sent by Parent 4: Parent says BYE! Length: 16
+
+Sem Post
+
+Parent Process Sent
+	Timestamp:
+ 3064063
+
+Sem Wait
+String Recieved by Parent 4: Parent says BYE! Length: 8.
+String Sent by Parent 5: Parent says BYE! Length: 16
+
+Sem Post
+
+Parent Process Sent
+	Timestamp:
+ 3149153
+
+Sem Wait
+String Recieved by Parent 5: Parent says BYE! Length: 8.
+String Sent by Parent 6: Parent says BYE! Length: 16
+
+Sem Post
+
+Parent Process Sent
+	Timestamp:
+ 3224886
+
+Sem Wait
+String Recieved by Parent 6: Parent says BYE! Length: 8.
+String Sent by Parent 7: Parent says BYE! Length: 16
+
+Sem Post
+
+Parent Process Sent
+	Timestamp:
+ 3305080
+
+Sem Wait
+String Recieved by Parent 7: Parent says BYE! Length: 8.
+String Sent by Parent 8: Parent says BYE! Length: 16
+
+Sem Post
+
+Parent Process Sent
+	Timestamp:
+ 3392881
+
+Sem Wait
+String Recieved by Parent 8: Parent says BYE! Length: 8.
+String Sent by Parent 9: Parent says BYE! Length: 16
+
+Sem Post
+
+Parent Process Sent
+	Timestamp:
+ 3507427
+
+Sem Wait
+String Recieved by Parent 9: Parent says BYE! Length: 8.
+
+Parent Process Closed
+Timestamp: 3569695

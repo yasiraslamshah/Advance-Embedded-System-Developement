@@ -1,0 +1,119 @@
+
+Message Q
+Child Time stamp 289987
+
+Message Q Forked!
+Recieved Child Time stamp 452602
+
+Message Recieved from Parent
+
+Message from Parent String Bye_from_Parent,Length 100
+Child send Time stamp 557456
+Recieved Child Time stamp 692498
+
+Message Recieved from Parent
+
+Message from Parent String Bye_from_Parent,Length 100
+Child send Time stamp 795028
+Recieved Child Time stamp 861424
+
+Message Recieved from Parent
+
+Message from Parent String Bye_from_Parent,Length 100
+Child send Time stamp 936414
+Recieved Child Time stamp 996956
+
+Message Recieved from Parent
+
+Message from Parent String Bye_from_Parent,Length 100
+Child send Time stamp 1065592
+Recieved Child Time stamp 1179163
+
+Message Recieved from Parent
+
+Message from Parent String Bye_from_Parent,Length 100
+Child send Time stamp 1287673
+Recieved Child Time stamp 1401138
+
+Message Recieved from Parent
+
+Message from Parent String Bye_from_Parent,Length 100
+Child send Time stamp 1475705
+Recieved Child Time stamp 1618721
+
+Message Recieved from Parent
+
+Message from Parent String Bye_from_Parent,Length 100
+Child send Time stamp 1761299
+Recieved Child Time stamp 1880640
+
+Message Recieved from Parent
+
+Message from Parent String Bye_from_Parent,Length 100
+Child send Time stamp 1965933
+Recieved Child Time stamp 2097581
+
+Message Recieved from Parent
+
+Message from Parent String Bye_from_Parent,Length 100
+Child send Time stamp 2206894
+Recieved Child Time stamp 2313110
+
+Message Recieved from Parent
+
+Message from Parent String Bye_from_Parent,Length 100
+Child send Time stamp 2429704
+
+Message Q
+
+SleepSent Child Time stamp -1341993780317894365
+Recieved Child Time stamp -6004234345744677585
+
+String Recieved by Parent : Hello_from_Child Length: 100 
+
+SleepSent Child Time stamp 2850692
+Recieved Child Time stamp -6004234345744677585
+
+String Recieved by Parent : Hello_from_Child Length: 100 
+
+SleepSent Child Time stamp 3009865
+Recieved Child Time stamp -6004234345744677585
+
+String Recieved by Parent : Hello_from_Child Length: 100 
+
+SleepSent Child Time stamp 3168897
+Recieved Child Time stamp -6004234345744677585
+
+String Recieved by Parent : Hello_from_Child Length: 100 
+
+SleepSent Child Time stamp 3365165
+Recieved Child Time stamp -6004234345744677585
+
+String Recieved by Parent : Hello_from_Child Length: 100 
+
+SleepSent Child Time stamp 3492871
+Recieved Child Time stamp -6004234345744677585
+
+String Recieved by Parent : Hello_from_Child Length: 100 
+
+SleepSent Child Time stamp 3705602
+Recieved Child Time stamp -6004234345744677585
+
+String Recieved by Parent : Hello_from_Child Length: 100 
+
+SleepSent Child Time stamp 3903567
+Recieved Child Time stamp -6004234345744677585
+
+String Recieved by Parent : Hello_from_Child Length: 100 
+
+SleepSent Child Time stamp 4100724
+Recieved Child Time stamp -6004234345744677585
+
+String Recieved by Parent : Hello_from_Child Length: 100 
+
+SleepSent Child Time stamp 4268534
+Recieved Child Time stamp -6004234345744677585
+
+String Recieved by Parent : Hello_from_Child Length: 100 
+
+Message closed
