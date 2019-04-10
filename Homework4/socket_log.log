@@ -1,0 +1,920 @@
+s
+Socket Created Successfully
+
+Time Stamp Socket Start:1689535
+
+Socket Binded Successfully
+
+Listening!
+
+Accepted!
+
+String from Client:Client Says :Mark 0,Length:19
+
+String to Write from Server:Server Says :HIT 0
+
+Time Stamp Read:1902005
+
+Time Stamp Write:1939539
+
+String from Client:Client Says :Mark 1,Length:19
+
+String to Write from Server:Server Says :HIT 1
+
+Time Stamp Read:2000104
+
+Time Stamp Write:2054150
+
+String from Client:Client Says :Mark 2,Length:19
+
+String to Write from Server:Server Says :HIT 2
+
+Time Stamp Read:2107127
+
+Time Stamp Write:2153499
+
+String from Client:Client Says :Mark 3,Length:19
+
+String to Write from Server:Server Says :HIT 3
+
+Time Stamp Read:2230693
+
+Time Stamp Write:2249261
+
+String from Client:Client Says :Mark 4,Length:19
+
+String to Write from Server:Server Says :HIT 4
+
+Time Stamp Read:2277565
+
+Time Stamp Write:2294339
+
+String from Client:Client Says :Mark 5,Length:19
+
+String to Write from Server:Server Says :HIT 5
+
+Time Stamp Read:2356666
+
+Time Stamp Write:2402546
+
+String from Client:Client Says :Mark 6,Length:19
+
+String to Write from Server:Server Says :HIT 6
+
+Time Stamp Read:2447721
+
+Time Stamp Write:2517029
+
+String from Client:Client Says :Mark 7,Length:19
+
+String to Write from Server:Server Says :HIT 7
+
+Time Stamp Read:2551637
+
+Time Stamp Write:2582561
+
+String from Client:Client Says :Mark 8,Length:19
+
+String to Write from Server:Server Says :HIT 8
+
+Time Stamp Read:2611292
+
+Time Stamp Write:2653925
+
+String from Client:Client Says :Mark 9,Length:19
+
+String to Write from Server:Server Says :HIT 9
+
+Time Stamp Read:2684635
+
+Time Stamp Write:2717711
+
+Closing Server
+
+Time Stamp Socket Close:2732076
+
+Socket Created
+
+Timestamp Socket Start 1692373
+
+Connected
+
+Sending to Parent from Client :Client Says :Mark 0
+
+Timestamp Write 1923124
+
+String Recieved from Server : Server Says :HIT 0 50 
+
+Timestamp Read 1987215
+
+Sending to Parent from Client :Client Says :Mark 1
+
+Timestamp Write 2036631
+
+String Recieved from Server : Server Says :HIT 1 50 
+
+Timestamp Read 2085935
+
+Sending to Parent from Client :Client Says :Mark 2
+
+Timestamp Write 2123793
+
+String Recieved from Server : Server Says :HIT 2 50 
+
+Timestamp Read 2169404
+
+Sending to Parent from Client :Client Says :Mark 3
+
+Timestamp Write 2219542
+
+String Recieved from Server : Server Says :HIT 3 50 
+
+Timestamp Read 2246621
+
+Sending to Parent from Client :Client Says :Mark 4
+
+Timestamp Write 2266642
+
+String Recieved from Server : Server Says :HIT 4 50 
+
+Timestamp Read 2311832
+
+Sending to Parent from Client :Client Says :Mark 5
+
+Timestamp Write 2362157
+
+String Recieved from Server : Server Says :HIT 5 50 
+
+Timestamp Read 2407317
+
+Sending to Parent from Client :Client Says :Mark 6
+
+Timestamp Write 2439999
+
+String Recieved from Server : Server Says :HIT 6 50 
+
+Timestamp Read 2500531
+
+Sending to Parent from Client :Client Says :Mark 7
+
+Timestamp Write 2529463
+
+String Recieved from Server : Server Says :HIT 7 50 
+
+Timestamp Read 2578794
+
+Sending to Parent from Client :Client Says :Mark 8
+
+Timestamp Write 2596797
+
+String Recieved from Server : Server Says :HIT 8 50 
+
+Timestamp Read 2642356
+
+Sending to Parent from Client :Client Says :Mark 9
+
+Timestamp Write 2658907
+
+String Recieved from Server : Server Says :HIT 9 50 
+
+Timestamp Read 2706511
+
+Timestamp Socket END 2708046
+
+Closing Connection!
+
+Socket Created Successfully
+
+Time Stamp Socket Start:1835840
+
+Socket Binded Successfully
+
+Listening!
+
+Accepted!
+
+String from Client:Client Says :Mark 0,Length:19
+
+String to Write from Server:Server Says :HIT 0
+
+Time Stamp Read:2113889
+
+Time Stamp Write:2150426
+
+String from Client:Client Says :Mark 1,Length:19
+
+String to Write from Server:Server Says :HIT 1
+
+Time Stamp Read:2233891
+
+Time Stamp Write:2274042
+
+String from Client:Client Says :Mark 2,Length:19
+
+String to Write from Server:Server Says :HIT 2
+
+Time Stamp Read:2332880
+
+Time Stamp Write:2371563
+
+String from Client:Client Says :Mark 3,Length:19
+
+String to Write from Server:Server Says :HIT 3
+
+Time Stamp Read:2478094
+
+Time Stamp Write:2548679
+
+String from Client:Client Says :Mark 4,Length:19
+
+String to Write from Server:Server Says :HIT 4
+
+Time Stamp Read:2622927
+
+Time Stamp Write:2678448
+
+String from Client:Client Says :Mark 5,Length:19
+
+String to Write from Server:Server Says :HIT 5
+
+Time Stamp Read:2748336
+
+Time Stamp Write:2801306
+
+String from Client:Client Says :Mark 6,Length:19
+
+String to Write from Server:Server Says :HIT 6
+
+Time Stamp Read:2865261
+
+Time Stamp Write:2919384
+
+String from Client:Client Says :Mark 7,Length:19
+
+String to Write from Server:Server Says :HIT 7
+
+Time Stamp Read:2986756
+
+Time Stamp Write:3027729
+
+String from Client:Client Says :Mark 8,Length:19
+
+String to Write from Server:Server Says :HIT 8
+
+Time Stamp Read:3093603
+
+Time Stamp Write:3139713
+
+String from Client:Client Says :Mark 9,Length:19
+
+String to Write from Server:Server Says :HIT 9
+
+Time Stamp Read:3189520
+
+Time Stamp Write:3222846
+
+Closing Server
+
+Time Stamp Socket Close:3228303
+
+Socket Created
+
+Timestamp Socket Start 1925959
+
+Connected
+
+Sending to Parent from Client :Client Says :Mark 0
+
+Timestamp Write 2242355
+
+String Recieved from Server : Server Says :HIT 0 50 
+
+Timestamp Read 2288274
+
+Sending to Parent from Client :Client Says :Mark 1
+
+Timestamp Write 2327393
+
+String Recieved from Server : Server Says :HIT 1 50 
+
+Timestamp Read 2377021
+
+Sending to Parent from Client :Client Says :Mark 2
+
+Timestamp Write 2422955
+
+String Recieved from Server : Server Says :HIT 2 50 
+
+Timestamp Read 2490533
+
+Sending to Parent from Client :Client Says :Mark 3
+
+Timestamp Write 2548529
+
+String Recieved from Server : Server Says :HIT 3 50 
+
+Timestamp Read 2607768
+
+Sending to Parent from Client :Client Says :Mark 4
+
+Timestamp Write 2652384
+
+String Recieved from Server : Server Says :HIT 4 50 
+
+Timestamp Read 2714214
+
+Sending to Parent from Client :Client Says :Mark 5
+
+Timestamp Write 2756845
+
+String Recieved from Server : Server Says :HIT 5 50 
+
+Timestamp Read 2821066
+
+Sending to Parent from Client :Client Says :Mark 6
+
+Timestamp Write 2862029
+
+String Recieved from Server : Server Says :HIT 6 50 
+
+Timestamp Read 2931201
+
+Sending to Parent from Client :Client Says :Mark 7
+
+Timestamp Write 2991592
+
+String Recieved from Server : Server Says :HIT 7 50 
+
+Timestamp Read 3060278
+
+Sending to Parent from Client :Client Says :Mark 8
+
+Timestamp Write 3113037
+
+String Recieved from Server : Server Says :HIT 8 50 
+
+Timestamp Read 3177558
+
+Sending to Parent from Client :Client Says :Mark 9
+
+Timestamp Write 3219092
+
+String Recieved from Server : Server Says :HIT 9 50 
+
+Timestamp Read 3264304
+
+Timestamp Socket END 3267938
+
+Closing Connection!
+
+Socket Created Successfully
+
+Time Stamp Socket Start:1634197
+
+Socket Binded Successfully
+
+Listening!
+
+Accepted!
+
+String from Client:Client Says :Mark 0,Length:19
+
+String to Write from Server:Server Says :HIT 0
+
+Time Stamp Read:1886945
+
+Time Stamp Write:1940111
+
+String from Client:Client Says :Mark 1,Length:19
+
+String to Write from Server:Server Says :HIT 1
+
+Time Stamp Read:2004006
+
+Time Stamp Write:2039862
+
+String from Client:Client Says :Mark 2,Length:19
+
+String to Write from Server:Server Says :HIT 2
+
+Time Stamp Read:2106543
+
+Time Stamp Write:2143948
+
+String from Client:Client Says :Mark 3,Length:19
+
+String to Write from Server:Server Says :HIT 3
+
+Time Stamp Read:2204550
+
+Time Stamp Write:2237374
+
+String from Client:Client Says :Mark 4,Length:19
+
+String to Write from Server:Server Says :HIT 4
+
+Time Stamp Read:2289447
+
+Time Stamp Write:2321896
+
+String from Client:Client Says :Mark 5,Length:19
+
+String to Write from Server:Server Says :HIT 5
+
+Time Stamp Read:2376084
+
+Time Stamp Write:2410096
+
+String from Client:Client Says :Mark 6,Length:19
+
+String to Write from Server:Server Says :HIT 6
+
+Time Stamp Read:2486514
+
+Time Stamp Write:2550784
+
+String from Client:Client Says :Mark 7,Length:19
+
+String to Write from Server:Server Says :HIT 7
+
+Time Stamp Read:2606165
+
+Time Stamp Write:2643410
+
+String from Client:Client Says :Mark 8,Length:19
+
+String to Write from Server:Server Says :HIT 8
+
+Time Stamp Read:2699673
+
+Time Stamp Write:2734833
+
+String from Client:Client Says :Mark 9,Length:19
+
+String to Write from Server:Server Says :HIT 9
+
+Time Stamp Read:2788223
+
+Time Stamp Write:2825874
+
+Closing Server
+
+Time Stamp Socket Close:2830128
+
+Socket Created
+
+Timestamp Socket Start 1798564
+
+Connected
+
+Sending to Parent from Client :Client Says :Mark 0
+
+Timestamp Write 2087554
+
+String Recieved from Server : Server Says :HIT 0 50 
+
+Timestamp Read 2155337
+
+Sending to Parent from Client :Client Says :Mark 1
+
+Timestamp Write 2190071
+
+String Recieved from Server : Server Says :HIT 1 50 
+
+Timestamp Read 2250482
+
+Sending to Parent from Client :Client Says :Mark 2
+
+Timestamp Write 2286364
+
+String Recieved from Server : Server Says :HIT 2 50 
+
+Timestamp Read 2345799
+
+Sending to Parent from Client :Client Says :Mark 3
+
+Timestamp Write 2381445
+
+String Recieved from Server : Server Says :HIT 3 50 
+
+Timestamp Read 2435231
+
+Sending to Parent from Client :Client Says :Mark 4
+
+Timestamp Write 2469915
+
+String Recieved from Server : Server Says :HIT 4 50 
+
+Timestamp Read 2523737
+
+Sending to Parent from Client :Client Says :Mark 5
+
+Timestamp Write 2556772
+
+String Recieved from Server : Server Says :HIT 5 50 
+
+Timestamp Read 2607772
+
+Sending to Parent from Client :Client Says :Mark 6
+
+Timestamp Write 2653065
+
+String Recieved from Server : Server Says :HIT 6 50 
+
+Timestamp Read 2696277
+
+Sending to Parent from Client :Client Says :Mark 7
+
+Timestamp Write 2740071
+
+String Recieved from Server : Server Says :HIT 7 50 
+
+Timestamp Read 2788425
+
+Sending to Parent from Client :Client Says :Mark 8
+
+Timestamp Write 2832064
+
+String Recieved from Server : Server Says :HIT 8 50 
+
+Timestamp Read 2890652
+
+Sending to Parent from Client :Client Says :Mark 9
+
+Timestamp Write 2936140
+
+String Recieved from Server : Server Says :HIT 9 50 
+
+Timestamp Read 2994484
+
+Timestamp Socket END 2997806
+
+Closing Connection!
+
+Socket Created Successfully
+
+Time Stamp Socket Start:1621539
+
+Socket Binded Successfully
+
+Listening!
+
+Accepted!
+
+String from Client:Client Says :Mark 0,Length:19
+
+String to Write from Server:Server Says :HIT 0
+
+Time Stamp Read:1887592
+
+Time Stamp Write:1958392
+
+String from Client:Client Says :Mark 1,Length:19
+
+String to Write from Server:Server Says :HIT 1
+
+Time Stamp Read:2035020
+
+Time Stamp Write:2095653
+
+String from Client:Client Says :Mark 2,Length:19
+
+String to Write from Server:Server Says :HIT 2
+
+Time Stamp Read:2187050
+
+Time Stamp Write:2259704
+
+String from Client:Client Says :Mark 3,Length:19
+
+String to Write from Server:Server Says :HIT 3
+
+Time Stamp Read:2350711
+
+Time Stamp Write:2423085
+
+String from Client:Client Says :Mark 4,Length:19
+
+String to Write from Server:Server Says :HIT 4
+
+Time Stamp Read:2499277
+
+Time Stamp Write:2546674
+
+String from Client:Client Says :Mark 5,Length:19
+
+String to Write from Server:Server Says :HIT 5
+
+Time Stamp Read:2614844
+
+Time Stamp Write:2662381
+
+String from Client:Client Says :Mark 6,Length:19
+
+String to Write from Server:Server Says :HIT 6
+
+Time Stamp Read:2720889
+
+Time Stamp Write:2762809
+
+String from Client:Client Says :Mark 7,Length:19
+
+String to Write from Server:Server Says :HIT 7
+
+Time Stamp Read:2836371
+
+Time Stamp Write:2890443
+
+String from Client:Client Says :Mark 8,Length:19
+
+String to Write from Server:Server Says :HIT 8
+
+Time Stamp Read:2956092
+
+Time Stamp Write:3002242
+
+String from Client:Client Says :Mark 9,Length:19
+
+String to Write from Server:Server Says :HIT 9
+
+Time Stamp Read:3065465
+
+Time Stamp Write:3109239
+
+Closing Server
+
+Time Stamp Socket Close:3114521
+
+Socket Created
+
+Timestamp Socket Start 1766593
+
+Connected
+
+Sending to Parent from Client :Client Says :Mark 0
+
+Timestamp Write 2052881
+
+String Recieved from Server : Server Says :HIT 0 50 
+
+Timestamp Read 2149536
+
+Sending to Parent from Client :Client Says :Mark 1
+
+Timestamp Write 2205853
+
+String Recieved from Server : Server Says :HIT 1 50 
+
+Timestamp Read 2332525
+
+Sending to Parent from Client :Client Says :Mark 2
+
+Timestamp Write 2399361
+
+String Recieved from Server : Server Says :HIT 2 50 
+
+Timestamp Read 2527807
+
+Sending to Parent from Client :Client Says :Mark 3
+
+Timestamp Write 2591717
+
+String Recieved from Server : Server Says :HIT 3 50 
+
+Timestamp Read 2654404
+
+Sending to Parent from Client :Client Says :Mark 4
+
+Timestamp Write 2693713
+
+String Recieved from Server : Server Says :HIT 4 50 
+
+Timestamp Read 2744113
+
+Sending to Parent from Client :Client Says :Mark 5
+
+Timestamp Write 2780706
+
+String Recieved from Server : Server Says :HIT 5 50 
+
+Timestamp Read 2830398
+
+Sending to Parent from Client :Client Says :Mark 6
+
+Timestamp Write 2866034
+
+String Recieved from Server : Server Says :HIT 6 50 
+
+Timestamp Read 2913607
+
+Sending to Parent from Client :Client Says :Mark 7
+
+Timestamp Write 2952771
+
+String Recieved from Server : Server Says :HIT 7 50 
+
+Timestamp Read 3007399
+
+Sending to Parent from Client :Client Says :Mark 8
+
+Timestamp Write 3043115
+
+String Recieved from Server : Server Says :HIT 8 50 
+
+Timestamp Read 3093094
+
+Sending to Parent from Client :Client Says :Mark 9
+
+Timestamp Write 3129511
+
+String Recieved from Server : Server Says :HIT 9 50 
+
+Timestamp Read 3178136
+
+Timestamp Socket END 3181519
+
+Closing Connection!
+
+Socket Created Successfully
+
+Time Stamp Socket Start:1632428
+
+Socket Binded Successfully
+
+Listening!
+
+Accepted!
+
+String from Client:Client Says :Mark 0,Length:19
+
+String to Write from Server:Server Says :HIT 0
+
+Time Stamp Read:1874863
+
+Time Stamp Write:1949091
+
+String from Client:Client Says :Mark 1,Length:19
+
+String to Write from Server:Server Says :HIT 1
+
+Time Stamp Read:2081522
+
+Time Stamp Write:2144094
+
+String from Client:Client Says :Mark 2,Length:19
+
+String to Write from Server:Server Says :HIT 2
+
+Time Stamp Read:2262171
+
+Time Stamp Write:2325434
+
+String from Client:Client Says :Mark 3,Length:19
+
+String to Write from Server:Server Says :HIT 3
+
+Time Stamp Read:2394049
+
+Time Stamp Write:2434460
+
+String from Client:Client Says :Mark 4,Length:19
+
+String to Write from Server:Server Says :HIT 4
+
+Time Stamp Read:2496226
+
+Time Stamp Write:2528604
+
+String from Client:Client Says :Mark 5,Length:19
+
+String to Write from Server:Server Says :HIT 5
+
+Time Stamp Read:2587798
+
+Time Stamp Write:2620783
+
+String from Client:Client Says :Mark 6,Length:19
+
+String to Write from Server:Server Says :HIT 6
+
+Time Stamp Read:2676500
+
+Time Stamp Write:2708337
+
+String from Client:Client Says :Mark 7,Length:19
+
+String to Write from Server:Server Says :HIT 7
+
+Time Stamp Read:2762290
+
+Time Stamp Write:2794042
+
+String from Client:Client Says :Mark 8,Length:19
+
+String to Write from Server:Server Says :HIT 8
+
+Time Stamp Read:2845844
+
+Time Stamp Write:2878192
+
+String from Client:Client Says :Mark 9,Length:19
+
+String to Write from Server:Server Says :HIT 9
+
+Time Stamp Read:2930781
+
+Time Stamp Write:2962372
+
+Closing Server
+
+Time Stamp Socket Close:2968266
+
+Socket Created
+
+Timestamp Socket Start 1848212
+
+Connected
+
+Sending to Parent from Client :Client Says :Mark 0
+
+Timestamp Write 2096389
+
+String Recieved from Server : Server Says :HIT 0 50 
+
+Timestamp Read 2176887
+
+Sending to Parent from Client :Client Says :Mark 1
+
+Timestamp Write 2225001
+
+String Recieved from Server : Server Says :HIT 1 50 
+
+Timestamp Read 2311768
+
+Sending to Parent from Client :Client Says :Mark 2
+
+Timestamp Write 2384552
+
+String Recieved from Server : Server Says :HIT 2 50 
+
+Timestamp Read 2464639
+
+Sending to Parent from Client :Client Says :Mark 3
+
+Timestamp Write 2508990
+
+String Recieved from Server : Server Says :HIT 3 50 
+
+Timestamp Read 2571271
+
+Sending to Parent from Client :Client Says :Mark 4
+
+Timestamp Write 2607889
+
+String Recieved from Server : Server Says :HIT 4 50 
+
+Timestamp Read 2663344
+
+Sending to Parent from Client :Client Says :Mark 5
+
+Timestamp Write 2700463
+
+String Recieved from Server : Server Says :HIT 5 50 
+
+Timestamp Read 2753248
+
+Sending to Parent from Client :Client Says :Mark 6
+
+Timestamp Write 2787641
+
+String Recieved from Server : Server Says :HIT 6 50 
+
+Timestamp Read 2840015
+
+Sending to Parent from Client :Client Says :Mark 7
+
+Timestamp Write 2873105
+
+String Recieved from Server : Server Says :HIT 7 50 
+
+Timestamp Read 2923209
+
+Sending to Parent from Client :Client Says :Mark 8
+
+Timestamp Write 2956199
+
+String Recieved from Server : Server Says :HIT 8 50 
+
+Timestamp Read 3008281
+
+Sending to Parent from Client :Client Says :Mark 9
+
+Timestamp Write 3041432
+
+String Recieved from Server : Server Says :HIT 9 50 
+
+Timestamp Read 3094577
+
+Timestamp Socket END 3097513
+
+Closing Connection!
